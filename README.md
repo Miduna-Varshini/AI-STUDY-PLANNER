@@ -1,6 +1,6 @@
 # 🎓 ExamPrep AI — Personalised Study Intelligence
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://examprep-ai7.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://examprep-ai7.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
 
