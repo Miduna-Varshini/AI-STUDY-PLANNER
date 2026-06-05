@@ -1,6 +1,6 @@
 # 🎓 ExamPrep AI — Personalised Study Intelligence
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://examprep-ai7.streamlit.app/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://examprep-ai7.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
 
@@ -170,8 +170,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 👨‍💻 Author
 
-**Your Name**
-Miduna Varshini M A
+**Miduna Varshini M A**
 
 ---
 
